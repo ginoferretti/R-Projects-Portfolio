@@ -1,0 +1,2 @@
+Here you can find the household data set and a group based project work I did with my classmates on the dataset. 
+We started from basic descriptive statistics arriving to a more complex inferecial analysis, performing some simple linear models and statistical tests.
